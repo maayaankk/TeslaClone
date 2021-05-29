@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Project info
+This the basic UI of the official Tesla website. It is been build using reactjs and bee hosted using firebase.
+
 ## Available Scripts
 
 In the project directory, you can run:
